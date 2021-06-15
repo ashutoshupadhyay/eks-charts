@@ -19,3 +19,4 @@
 /stable/aws-sigv4-proxy-admission-controller/ @alanprot @alolita
 
 /stable/aws-for-fluent-bit/ @PettitWesley @hossain-rayhan
+/stable/kube-bench/ @ashutoshupadhyay
